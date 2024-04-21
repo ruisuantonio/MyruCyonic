@@ -55,7 +55,7 @@ Para obter suporte ou relatar problemas, entre em contato conosco através do no
 ## Licença
 
 MyruCyonic é distribuído sob a Licença de Uso Pessoal ou Uso Interno.
-[Para ver a licença completa, clique aqui!](https://github.com/worbadillitics/MyruCyonic/blob/stable/license.md)
+[Para ver a licença completa, clique aqui!](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license.md)
 
 A Licença de Uso Pessoal ou Licença de Uso Interno refere-se a uma autorização concedida para o uso restrito de um produto, software ou conteúdo. Geralmente, essa licença permite que um indivíduo utilize o item licenciado apenas para fins pessoais ou internos dentro de uma organização, sem a possibilidade de redistribuição ou uso comercial.
 

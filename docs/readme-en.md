@@ -82,7 +82,7 @@ For support or to report problems, please contact us via our [discord server](ht
 
 MyruCyonic is distributed under the Personal Use or Internal Use License.
 
-[To see the full license, click here!](https://gitea.com/Worbadillitics/MyruCyonic/src/branch/stable/license.md)
+[To see the full license, click here!](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license-en.md)
 
 
 The Personal Use License or Internal Use License refers to an authorization granted for the restricted use of a product, software or content. Generally, this license allows an individual to use the licensed item only for personal or internal purposes within an organization, without the possibility of redistribution or commercial use.
