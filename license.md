@@ -1,6 +1,12 @@
 
 ## Licença de Uso Pessoal ou Uso Interno
 
+<p align="center">
+  <a href="license-en.md">English 🇺🇸</a>
+  •
+  <a href="readme.md">Português 🇧🇷</a>
+</p>
+
 Este é um contrato entre você (referido como "Usuário") e Myru (referido como "Proprietário") para o uso do software MyruCyonic (referido como "Software").
 
 ## 1. Concessão de Licença
