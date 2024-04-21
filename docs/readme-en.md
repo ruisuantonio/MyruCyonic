@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/readme-en.md">English 🇺🇸</a>
   •
-  <a href="docs/readme.md">Português 🇧🇷</a>
+  <a href="readme.md">Português 🇧🇷</a>
 </p>
 
 <p align="center">

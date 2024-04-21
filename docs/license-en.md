@@ -3,7 +3,7 @@
 <p align="center">
   <a href="docs/license-en.md">English 🇺🇸</a>
   •
-  <a href="docs/license.md">Português 🇧🇷</a>
+  <a href="license.md">Português 🇧🇷</a>
 </p>
 
 This is a contract between you (referred to as "User") and Myru (referred to as "Owner") for the use of the MyruCyonic software (referred to as "Software").
