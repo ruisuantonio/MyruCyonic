@@ -1,6 +1,22 @@
 # MyruCyonic - Otimizando seu Windows® para um melhor dia-a-dia!
 <h1> Descrição </h1>
 
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic/readme-en.md">English 🇺🇸</a>
+  •
+  <a href="readme.md">Português 🇧🇷</a>
+</p>
+
+<p align="center">
+  
+  <a>![GitHub](https://img.shields.io/github/license/Worbadillitics/MyruCyonic)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/Worbadillitics/MyruCyonic)
+   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Worbadillitics/MyruCyonic)
+   ![GitHub issues](https://img.shields.io/github/issues/Worbadillitics/MyruCyonic)
+  </a>  
+</p>
+
+
 <h2>MyruCyonic é uma ferramenta poderosa projetada para otimizar o desempenho do seu sistema operacional Windows, proporcionando uma experiência mais rápida e fluida. Com uma variedade de recursos e configurações personalizáveis em que permite que você maximize a eficiência do seu sistema operacional, melhorando a inicialização, a resposta do sistema e a velocidade geral.<br><br></h2>
 
 ## Recursos
@@ -28,7 +44,7 @@
 
 ## Contribuição
 
-O MyruCyonic é de código fechado, para contribuir faça sua sugestão em: [Sessão de Issues](https://gitea.com/Worbadillitics/MyruCyonic/issues/new), selecionando a etiqueta "Kind/Feature"
+O MyruCyonic é de código fechado, para contribuir faça sua sugestão em: [Sessão de Issues](https://gitea.com/Worbadillitics/MyruCyonic/issues/new), selecionando a etiqueta mais recomendada.
 
 Dê um exemplo de código em **.bat** e o porque nós precisamos seguir a sua sugestão adiante.
 
@@ -39,7 +55,7 @@ Para obter suporte ou relatar problemas, entre em contato conosco através do no
 ## Licença
 
 MyruCyonic é distribuído sob a Licença de Uso Pessoal ou Uso Interno.
-[Para ver a licença completa, clique aqui!](https://gitea.com/Worbadillitics/MyruCyonic/src/branch/stable/license.md)
+[Para ver a licença completa, clique aqui!](https://github.com/worbadillitics/MyruCyonic/blob/stable/license.md)
 
 A Licença de Uso Pessoal ou Licença de Uso Interno refere-se a uma autorização concedida para o uso restrito de um produto, software ou conteúdo. Geralmente, essa licença permite que um indivíduo utilize o item licenciado apenas para fins pessoais ou internos dentro de uma organização, sem a possibilidade de redistribuição ou uso comercial.
 
@@ -48,4 +64,4 @@ Por exemplo, se você adquirir um software com uma licença de uso pessoal, pode
 
 ## Autor
 
-Desenvolvido por Myru' - [Meus Projetos](https://gitea.com/Worbadillitics)
+Desenvolvido por Myru' - [Meus Projetos](https://github.com/worbadillitics)
