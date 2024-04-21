@@ -5,7 +5,7 @@
 <h1> Description </h1>
 
 <p align="center">
-  <a href="https://github.com/gorouflex/DuoXPy/readme-en.md">English 🇺🇸</a>
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme-en.md">English 🇺🇸</a>
   •
   <a href="readme.md">Português 🇧🇷</a>
 </p>
