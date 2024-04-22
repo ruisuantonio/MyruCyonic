@@ -134,3 +134,25 @@ https://www.contributor-covenant.org/translations.
 
 ------------------------------------------------------------------------------------------
 
+
+<final-de-pagina>
+
+<watermark-footer>
+
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribute ☕
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Go back to Wiki 📚
+  •
+  <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
+  </a>
+  
+</p>
+
+</watermark-footer>
+
+Developed by Myru' - [My Projects](https://github.com/Worbadillitics)
+
+<final-de-pagina>

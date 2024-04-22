@@ -54,3 +54,25 @@ Qualquer disputa decorrente ou relacionada a este contrato será submetida à ju
 AO INSTALAR, COPIAR OU UTILIZAR O SOFTWARE, O USUÁRIO RECONHECE QUE LEU, ENTENDEU E ACEITOU ESTE CONTRATO E CONCORDA EM ESTAR VINCULADO A SEUS TERMOS E CONDIÇÕES.
 
 ---
+
+<final-de-pagina>
+
+<watermark-footer>
+
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribuir ☕
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Voltar para a wiki 📚
+  •
+  <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
+  </a>
+  
+</p>
+
+</watermark-footer>
+
+Developed by Myru' - [Meus Projetos](https://github.com/Worbadillitics)
+
+<final-de-pagina>

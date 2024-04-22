@@ -64,4 +64,26 @@ Por exemplo, se você adquirir um software com uma licença de uso pessoal, pode
 
 ## Autor
 
-Desenvolvido por Myru' - [Meus Projetos](https://github.com/worbadillitics)
+Myru'
+
+<final-de-pagina>
+
+<watermark-footer>
+
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribuir ☕
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Voltar para a wiki 📚
+  •
+  <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
+  </a>
+  
+</p>
+
+</watermark-footer>
+
+Developed by Myru' - [Meus Projetos](https://github.com/Worbadillitics)
+
+<final-de-pagina>

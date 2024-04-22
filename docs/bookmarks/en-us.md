@@ -38,28 +38,7 @@
 - Customizable settings: Adjust settings according to your preferences and specific needs.
 
 
-## Installation
 
-
-1. Download the MyruCyonic installer from the official website.
-
-2. Run the installer and follow the on-screen instructions to complete the installation.
-
-3. After installation, launch MyruCyonic and start optimizing your Windows operating system.
-
-
-## Use
-
-
-1. Open MyruCyonic from the program menu or the desktop.
-
-2. Select the features you want to optimize, such as startup, disk cleanup, defragmentation, etc.
-
-3. Customize the settings as necessary.
-
-4. Click on "Optimize" to start the optimization process.
-
-5. Wait for MyruCyonic to complete the optimization and enjoy a faster, more efficient Windows system.
 
 
 ## Contribution
@@ -95,4 +74,24 @@ For example, if you purchase software with a personal use license, you can insta
 ## Author
 
 
-Developed by Myru' - [My Projects](https://gitea.com/Worbadillitics)
+<final-de-pagina>
+
+<watermark-footer>
+
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribute ☕
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Go back to Wiki 📚
+  •
+  <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
+  </a>
+  
+</p>
+
+</watermark-footer>
+
+Developed by Myru' - [My Projects](https://github.com/Worbadillitics)
+
+<final-de-pagina>

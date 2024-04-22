@@ -129,3 +129,25 @@ escada de fiscalização](https://github.com/mozilla/diversity).
 [página inicial]: https://www.contributor-covenant.org
 
 Para obter respostas para perguntas comuns
+
+<final-de-pagina>
+
+<watermark-footer>
+
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribuir ☕
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Voltar para a wiki 📚
+  •
+  <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
+  </a>
+  
+</p>
+
+</watermark-footer>
+
+Developed by Myru' - [Meus Projetos](https://github.com/Worbadillitics)
+
+<final-de-pagina>
