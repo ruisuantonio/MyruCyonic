@@ -2,9 +2,9 @@
 <h1> Descrição </h1>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/readme-en.md">English 🇺🇸</a>
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/en-us.md">English 🇺🇸</a>
   •
-  <a href="readme.md">Português 🇧🇷</a>
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/pt-br.md">Português 🇧🇷</a>
 </p>
 
 <p align="center">
