@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/installation/en-us.md">English 🇺🇸</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/installataion/pt-br.md">Português 🇧🇷</a>
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/installation/pt-br.md">Português 🇧🇷</a>
 </p>
 
 
