@@ -1,9 +1,9 @@
 ## License for Personal Use or Internal Use
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license-en.md">English 🇺🇸</a>
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/en-us.md">English 🇺🇸</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license.md">Português 🇧🇷</a>
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/pt-br.md">Português 🇧🇷</a>
 </p>
 
 This is a contract between you (referred to as "User") and Myru (referred to as "Owner") for the use of the MyruCyonic software (referred to as "Software").
