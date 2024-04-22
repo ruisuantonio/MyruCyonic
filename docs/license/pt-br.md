@@ -1,7 +1,7 @@
 
 ## Licença de Uso Pessoal ou Uso Interno
 
-p align="center">
+<p align="center">
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/en-us.md">English 🇺🇸</a>
   •
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/pt-br.md">Português 🇧🇷</a>
