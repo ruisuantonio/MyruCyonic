@@ -44,7 +44,7 @@
 ## Contribution
 
 
-MyruCyonic is closed source, to contribute make your suggestion in: [Issues Session](https://gitea.com/Worbadillitics/MyruCyonic/issues/new), selecting the "Kind/Feature" tag
+MyruCyonic is closed source, to contribute make your suggestion in: [Contribuition Tutorial](https://github.com/worbadillitics/MyruCyonic/blob/contribute.md).
 
 
 Give a code example in **.bat** and why we need to follow your suggestion further.

@@ -44,7 +44,7 @@
 
 ## Contribuição
 
-O MyruCyonic é de código fechado, para contribuir faça sua sugestão em: [Sessão de Issues](https://gitea.com/Worbadillitics/MyruCyonic/issues/new), selecionando a etiqueta mais recomendada.
+O MyruCyonic é de código fechado, para contribuir faça sua sugestão em: [Sessão de Contribuição](https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md).
 
 Dê um exemplo de código em **.bat** e o porque nós precisamos seguir a sua sugestão adiante.
 
