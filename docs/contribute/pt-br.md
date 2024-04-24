@@ -31,24 +31,24 @@ Os contribuidores mais dedicados podem obter uma generosidade em nosso servidor 
 
 
 
-<final-de-página>
+<final-de-pagina>
 
-<marca d'água-rodapé>
+<watermark-footer>
 
-<p alinhar="center">
-   <a href="https://github.com/worbadillitics/MyruCyonic">Fonte 💿</a>
-   •
-   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribua ☕
-   •
-   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Volte para o Wiki 📚
-   •
-   <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
-   </a>
+<p align="center">
+  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribuir ☕
+  •
+  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Voltar para a wiki 📚
+  •
+  <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
+  </a>
   
 </p>
 
 </watermark-footer>
 
-Desenvolvido por Myru' - [Meus Projetos](https://github.com/Worbadillitics) (Traduzido por Myru' Su Ka)
+Developed by Myru' - [Meus Projetos](https://github.com/Worbadillitics)
 
-<final-de-página>
+<final-de-pagina>
