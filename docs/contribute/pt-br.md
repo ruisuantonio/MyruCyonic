@@ -1,7 +1,7 @@
 # Seja um Colaborador - MyruCyonic!
 
 
-<p alinhar="center">
+<p allign="center">
    <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Inglês 🇺🇸</a>
    •
    <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/contribute/pt-br.md">Português 🇧🇷</a>
