@@ -1,3 +1,5 @@
+Obs: Lançamento adiado! ( a qualquer momento ele pode ser lançado. )
+
 # Welcome to MyruCyonic Wiki!
 
 
