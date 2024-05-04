@@ -1,4 +1,6 @@
 Obs: Lançamento adiado! ( a qualquer momento ele pode ser lançado. )
+Obs: 04/05/2024 ( Projeto encerrado! O otimizador não irá lançar.  )
+Para obter uma versão semelhante, acesse o repositório "MathOptimizer"
 
 # Welcome to MyruCyonic Wiki!
 
@@ -9,7 +11,7 @@ Obs: Lançamento adiado! ( a qualquer momento ele pode ser lançado. )
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/wiki/pt-br.md">Português 🇧🇷</a>
 </p>
 
-<picture><img align="center" src="https://raw.githubusercontent.com/worbadillitics/MyruCyonic/stable/assets/icon_large.png" width="100%"/></picture>
+<picture><img src="https://raw.githubusercontent.com/worbadillitics/MyruCyonic/stable/assets/icon_large.png" width="999%"/></picture>
 
 > Just click on an option and it's page will be opened
 >
