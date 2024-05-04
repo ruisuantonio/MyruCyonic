@@ -9,7 +9,9 @@ Obs: Lançamento adiado! ( a qualquer momento ele pode ser lançado. )
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/wiki/pt-br.md">Português 🇧🇷</a>
 </p>
 
-<a href="#"><img src="ttps://github.com/worbadillitics/MyruCyonic/tree/stable/assets/icon_large.png">
+<p align="center">
+  <a href="#"><img src="ttps://github.com/worbadillitics/MyruCyonic/tree/stable/assets/icon_large.png">
+</p>
 
 > Just click on an option and it's page will be opened
 >
