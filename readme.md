@@ -1,7 +1,6 @@
-
+This repository is archived because MyruCyonic project is dead, do anything you want with this page.
 
 # Welcome to MyruCyonic Wiki!
-
 
 <p align="center">
   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">English 🇺🇸</a>
